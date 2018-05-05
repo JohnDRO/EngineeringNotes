@@ -1,14 +1,13 @@
 # EngineeringNotes
 
 ## Electrical Engineering
-### Standards
+### Protocols
 #### SPI
 * Document 1
 * Document 2
-* Document 3
-* Document 4
 #### I2C
-* Document 1
+* [Texas Instrument, SLVA704, Understanding the I2C Bus](http://www.ti.com/lit/an/slva704/slva704.pdf)
 * Document 2
-* Document 3
-* Document 4
+#### UART
+* [Texas Instrument, SLVA704, Understanding the I2C Bus](http://www.ti.com/lit/an/slva704/slva704.pdf)
+* Document 2
